@@ -1,0 +1,4 @@
+1.打开cmd
+2.输入：python -m pysimplegui-exemaker.pysimplegui-exemaker
+3.流程操作
+

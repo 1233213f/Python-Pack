@@ -1,0 +1,1 @@
+nuitka --mingw64 --standalone --show-progress --show-memory --enable-plugin=pyqt5 --output-dir=out FRB的能量和望远镜灵敏度曲线.py

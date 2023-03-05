@@ -1,0 +1,2 @@
+1.再.py文件夹内 shift+右键 打开命令窗口
+2. pyinstaller -F -w setup.py  +.py(名称)
